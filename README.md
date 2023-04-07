@@ -50,3 +50,13 @@ ISP BILLING & NETWORK MANAGEMENT framework created for Internet service provider
 4.Auto Monthly BTRC Report
 5.Invoice Report
 6.Income/Expense Report
+
+#Technologies
+1.PHP Laravel
+2.AJAX
+3.Jquery
+4.Javascript
+5.Bootstrap
+
+
+
